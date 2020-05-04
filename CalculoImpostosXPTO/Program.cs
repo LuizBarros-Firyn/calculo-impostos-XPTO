@@ -39,6 +39,8 @@ namespace CalculoImpostosXPTO
             salarioFinal = imposto.valorCalculo(salarioBase);
 
             Console.WriteLine("\nSalario final do DBA: " + salarioFinal);
+
+            Console.WriteLine("\nMuito obrigado!");
         }
     }
 }

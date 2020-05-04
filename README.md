@@ -3,7 +3,7 @@ Primeiro projeto proposto pelo professor Takeshi da Universidade Positivo em Lon
 
 O Strategy é um design-pattern que visa melhorar a organização de códigos. Pois a adição de muitas condicionais if/else pode tornar a manutenção do código trabalhoso e ineficiente.
 
-A propósta é utilizar o Design Pattern Strategy para resolver a problemática referida, pois sempre que for necessário adicionar um novo comportamento, basta adicionar uma classe implementando a interface responsável.
+A proposta é utilizar o Design Pattern Strategy para resolver a problemática referida, pois sempre que for necessário adicionar um novo comportamento, basta adicionar uma classe implementando a interface responsável.
 
 Atividade realizada:
 
